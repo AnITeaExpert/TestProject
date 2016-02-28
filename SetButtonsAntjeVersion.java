@@ -12,7 +12,7 @@ public class SetButtonsAntjeVersion extends Application {
 	        launch();
 	    }
 
-	  private static final int NUM_BUTTONS = 6;
+	  private static final int NUM_BUTTONS = 8;
 	  
 	    @Override
 	    public void start(Stage primaryStage) throws Exception {
