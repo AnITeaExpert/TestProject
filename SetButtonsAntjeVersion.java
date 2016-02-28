@@ -6,19 +6,6 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 
-
-/**
- * This application contains six buttons. The text in each button has to be set according to the
- * values from an array, which range from 1 to 6. These values are used to set the text in the
- * buttons. The original program set images, but the idea is the same.
- * 
- * The code you should improve:
- * 
- * - How the buttons are declared and initialized
- * 
- * - The contents of the method setButtons()
- */
-
 public class SetButtonsAntjeVersion extends Application {
 
 	  public static void main(String[] args) {
